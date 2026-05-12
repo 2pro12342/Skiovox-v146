@@ -13,7 +13,7 @@ you could just code your own cert file to run JS or use this. you must have an u
 1. Go to an uncensored AI like Venice AI.
 2. ask the ai "make me a cert file that runs JS when importing into the cert manager". (or replace "JS" with anything else to run in your cert manager).
 3. follow instructions of the AI.
-4. Add your cert file to any source website other than github. 
+4. Add your cert file to any source website other than github.
 
 ## How to import your cert file into a kiosk app 
 Do these steps on your school chromebook (You need to access DNS settings); 
@@ -22,4 +22,30 @@ Do these steps on your school chromebook (You need to access DNS settings);
 3. Change to custom name servers and set first box to "150.136.163.0" and set the rest to "0.0.0.0".
 4. Disconnect and reconnect wifi until you get "Network Sign-In".
 5. Open any Kiosk App.
-6. When you get to the "Network Error" screen, sign into network
+6. When you get to the "Network Error" screen, click "sign into network".
+7. When the system (not chrome) browser window opens, go to your website where your cert file is stored and download the cert file.
+8. Exit out of the system browser window.
+9. Click the "certificate manager" button or something like that.
+10. Find a "Import" button and upload your cert file.
+11. it should run your JS. (If you use the JS to open a window/new tab, go to instructions below)
+
+If you cannot change your DNS custom name servers (or cannot access chrome settings at all): 
+1. Downgrade to a version below v125/v121. 
+2. Do CAUB + DNS Editor.
+
+If doesn't open the cert manager when clicked: 
+1. Instead of Signing Out, Powerwash computer.
+2. Do not sign in/get started.
+3. Go to your wifi panel and turn on your wifi and do steps 2-11. 
+
+## When Opening Chrome Window 
+If you want your chrome window to be faster with internet or just connecting wifi; 
+- Open "chrome://os-settings" to open settings (make sure to favorite to bookmark bar for easy access).
+If trying to download/open file;
+- Open "chrome://file-manager" to open file manager. 
+
+## Credits 
+2pro12342 | Github (finding exploit) 
+
+## Inspiration 
+Skiovox / Incognito / Guest Mode
