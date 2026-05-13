@@ -1,6 +1,11 @@
 # Skiovox v146
 A chrome exploit that opens an unblocked chrome window. not tested but could be possible. 
 
+## Requirements 
+- Chromebook
+- Any Kiosk App
+- Wifi Connection 
+
 ## How I found this
 I found a way to open the cert manager to chrome's kiosk apps. when in a kiosk app and network is off, there is a button to open the cert manager. Later this year (about a month ago), I found out that some cert files can run JS. If you import the cert file with the specific code, you can run JS in the cert manager, then forcing to open a chrome browser. 
 
