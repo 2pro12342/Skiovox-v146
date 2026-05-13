@@ -2,8 +2,8 @@
 A chrome exploit that opens an unblocked chrome window. not tested but could be possible. 
 
 ## Requirements 
-- Chromebook
-- Any Kiosk App
+- Chromebook 
+- Any Kiosk App 
 - Wifi Connection 
 
 ## How I found this
