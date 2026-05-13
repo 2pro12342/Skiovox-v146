@@ -45,8 +45,41 @@ If you want your chrome window to be faster with internet or just connecting bac
 If trying to download/open file;
 - Open "chrome://file-manager" to open file manager (make sure to favorite to bookmark bar for easy access). 
 
+## Why do you need to use the System Browser Window
+To get the cert file you uploaded. If you are wondering why use the chrome browser over the system browser, you can find out on Skiovox Lite and the system browser window doesn't have that many functions like; most sandbox js features, window/tab management, url address bar/toolbar featues, and more. 
+
+## Chrome Browser Pros/Cons 
+
+Pros: 
+- Multiple tab/window management
+- Devtools
+- URL bar/toolbar
+- Installing extensions
+- Adding accounts
+- URLs unblocked 
+and more!
+
+Cons: 
+- Chrome Apps might not work (File Manager, Settings, Text App, etc.)
+- Some Shortcuts may not work 
+- Some JS Sandbox features might not work 
+- Not easy set-up
+
+## Issues 
+- Organization blocks on sites are still blocked (github, google accounts, etc.)
+- When fully shut off (or computer dies), you will need to redo steps.
+- Not able to see battery, time, date, or notifications. 
+
 ## Credits 
 2pro12342 | Github (finding exploit) 
 
 ## Inspiration 
 Skiovox / Incognito / Guest Mode
+
+## Sources 
+
+Uncensored AI: Venice.ai/chat 
+Chat I Used: venice.ai/chat/yheJ9gb 
+Research Sources: chatgpt.com 
+Coding languages Used: ".crt", ".perm", ".p12". 
+
