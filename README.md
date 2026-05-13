@@ -39,10 +39,11 @@ If doesn't open the cert manager when clicked:
 3. Go to your wifi panel and turn on your wifi and do steps 2-11. 
 
 ## When Opening Chrome Window 
-If you want your chrome window to be faster with internet or just connecting wifi; 
+If you want your chrome window to be faster with internet or just connecting back to wifi; 
 - Open "chrome://os-settings" to open settings (make sure to favorite to bookmark bar for easy access).
+
 If trying to download/open file;
-- Open "chrome://file-manager" to open file manager. 
+- Open "chrome://file-manager" to open file manager (make sure to favorite to bookmark bar for easy access). 
 
 ## Credits 
 2pro12342 | Github (finding exploit) 
