@@ -83,8 +83,7 @@ Skiovox / Incognito / Guest Mode
 
 ## Sources 
 
-Uncensored AI: Venice.ai/chat 
-Chat I Used: venice.ai/chat/yheJ9gb 
-Research Sources: chatgpt.com 
-Coding languages Used: ".crt", ".perm", ".p12". 
+- Uncensored AI: Venice.ai/chat  
+- Research Sources: chatgpt.com
+- Coding languages Used: ".crt", ".perm", ".p12". 
 
